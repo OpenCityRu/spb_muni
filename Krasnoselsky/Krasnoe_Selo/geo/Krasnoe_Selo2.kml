@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark id="Krasnoe_Selo2"><name>Муниципальный округ Красное Село</name><Polygon><outerBoundaryIs><LinearRing>
+<coordinates>30.06501,59.66822 30.06547,59.67637 30.06653,59.67643 30.06660,59.67788 30.06721,59.67805 30.06714,59.67822 30.07407,59.67974 30.08408,59.67999 30.08311,59.67612 30.08078,59.67400 30.07339,59.66731 30.06501,59.66822 </coordinates>
+</LinearRing></outerBoundaryIs></Polygon></Placemark>
+</kml>

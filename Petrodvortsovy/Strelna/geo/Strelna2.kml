@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark id="Strelna2"><name>Муниципальный округ Стрельна</name><Polygon><outerBoundaryIs><LinearRing>
+<coordinates>30.04889,59.86339 30.04890,59.86347 30.04903,59.86352 30.05022,59.86320 30.05251,59.86226 30.05247,59.86216 30.05230,59.86214 30.05007,59.86306 30.04889,59.86339 </coordinates>
+</LinearRing></outerBoundaryIs></Polygon></Placemark>
+</kml>
